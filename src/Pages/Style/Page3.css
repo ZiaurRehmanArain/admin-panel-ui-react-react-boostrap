@@ -1,0 +1,25 @@
+
+
+.ms{
+    margin-left: 1px;
+}
+.switch-height{
+    height: 50px ;
+    overflow: hidden;
+   
+}
+
+.switch-1{
+    background-color: rgb(45, 11, 78) !important;
+    color:white;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 10px;
+    transform: skewX(30deg);
+    height: 80px;
+    width: 400px;
+}
+
+/* .margin-top{
+    margin-top: 32px;
+} */

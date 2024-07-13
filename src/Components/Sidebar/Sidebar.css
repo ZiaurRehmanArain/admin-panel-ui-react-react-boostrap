@@ -1,0 +1,42 @@
+.bg-color{
+    background-color: rgb(74, 22, 123);
+    margin: 0px;
+    padding: 0px;
+    width: 17%;
+}
+
+.slidebar-heading{
+    background-color: rgb(45, 11, 78);
+    padding-left: 15x;
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+ 
+    
+}
+
+.slidebar-items{
+    padding-left: 15x;
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+   text-decoration: none !important;
+
+
+}
+.slidebar-items span{
+   padding-left: 5px;
+
+}
+
+
+.slidebar-items:hover{
+    background-color: rgb(45, 11, 78);
+    border-left:  3px solid orange;
+    color: orange;
+
+}
+.slidebar-items:focus{
+    background-color: rgb(45, 11, 78);
+    border-left:  3px solid orange;
+    color: orange;
+
+}

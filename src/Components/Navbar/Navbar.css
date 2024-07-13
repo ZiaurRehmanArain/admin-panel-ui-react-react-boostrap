@@ -1,0 +1,16 @@
+.main-navbar{
+    background-color: rgb(45, 11, 78);
+    margin: 0px;
+    padding: 0px;
+     
+
+}
+.title-height{
+    height: 60px;
+    border-bottom: 8px solid orange;
+    padding: 10px;
+    color: orange;
+    font-size: 1.2rem;
+    
+
+}

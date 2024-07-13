@@ -1,0 +1,89 @@
+.border-bottom{
+
+    border-top: 1px solid rgb(223, 221, 221) !important;
+    border-left: 1px solid rgb(223, 221, 221) !important;
+    border-right: 1px solid rgb(223, 221, 221) !important;
+    border-bottom: 5px solid rgb(45, 11, 78) !important;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(45, 11, 78) !important;
+    width: 20%;
+    
+}
+
+.text-color1{
+    color: rgb(45, 11, 78) 
+}
+.border-bottom1{
+
+    border-top: 1px solid rgb(223, 221, 221) !important;
+    border-left: 1px solid rgb(223, 221, 221) !important;
+    /* border-right: 1px solid rgb(223, 221, 221) !important; */
+    border-bottom: 5px solid rgb(112, 112, 169) !important;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(112, 112, 169) !important;
+    width: 20%;
+    
+}
+.text-color2{
+    color: rgb(112, 112, 169)
+}
+.border-bottom2{
+
+    border-top: 1px solid rgb(223, 221, 221) !important;
+    /* border-left: 1px solid rgb(223, 221, 221) !important; */
+    border-right: 1px solid rgb(223, 221, 221) !important;
+    border-bottom: 5px solid rgb(196, 196, 196) !important;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(196, 196, 196) !important;
+    width: 20%;
+    
+}
+.text-color3{
+    color: rgb(196, 196, 196)
+}
+.border-bottom3{
+
+    border-top: 1px solid rgb(223, 221, 221) !important;
+    border-left: 1px solid rgb(223, 221, 221) !important;
+    border-right: 1px solid rgb(223, 221, 221) !important;
+    border-bottom: 5px solid green !important;
+    margin: 0px;
+    padding: 0px;
+    color: green !important;
+    width: 20%;
+    
+}
+.text-color4{
+    color: green
+}
+.border-bottom4{
+
+    border-top: 1px solid rgb(223, 221, 221) !important;
+    border-left: 1px solid rgb(223, 221, 221) !important;
+    border-right: 1px solid rgb(223, 221, 221) !important;
+    border-bottom: 5px solid lightblue !important;
+    margin: 0px;
+    padding: 0px;
+    color: lightblue  !important;
+    width: 20%;
+    
+}
+.text-color5{
+    color: lightblue  !important;}
+.h4{
+    font-size: 1rem;
+
+   
+}
+.h2{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.h3{
+    font-size: 1.5rem !important;
+    font-weight: bold;
+}
+

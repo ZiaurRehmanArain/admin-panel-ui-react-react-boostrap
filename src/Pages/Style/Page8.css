@@ -1,0 +1,32 @@
+.date-picker-height{
+
+    height: 40px;
+    width: 300px;
+    padding-left: 50px;
+    margin-left: -25px !important;
+    /* position: relative; */
+}
+
+.time-picker-icons12 {
+    position: absolute;
+    top: 50%;
+    left: -12px;
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    border: 1px solid rgb(201, 201, 201);
+    padding: 10px;
+    color: rgb(188, 188, 188);
+  }
+
+
+  .bg-light-orange{
+    background-color: rgb(255, 233, 192);
+
+  }
+
+  .text-light-grey{
+    color: grey;
+  }
